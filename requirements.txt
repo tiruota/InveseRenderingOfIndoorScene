@@ -1,4 +1,9 @@
 torch
 torchvision
+torchaudio
 matplotlib
 scipy
+opencv-python
+h5py
+shapely
+descartes
